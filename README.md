@@ -62,7 +62,7 @@ Este é um projeto simples desenvolvido em **React**, que inclui funcionalidades
 
 1. Clone este repositório:  
    ```bash
-   git clone https://github.com/Aghelena/primeiro-site.git
+   https://github.com/eduardocintr/marcio-projeto.git
    ```
 
 2. Acesse a pasta do projeto:  
